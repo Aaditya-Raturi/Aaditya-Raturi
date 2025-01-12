@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Aaditya-Raturi
 - 👀 I’m interested in coding and web designing 
 - 🌱 I’m currently learning python ( i am a newbie XD )
-- 💞️ I’m looking forward for big projects
-- 📫 you can reach me out on my instagram :- Itz_aaditya_raturi
-- 😄 Pronouns: he/him
-- ⚡ wish me on 19 July XD
+- looking forward for big projects
